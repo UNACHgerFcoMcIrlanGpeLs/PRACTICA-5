@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+
+
+<body style="background-color:#FFF59D;">
+
+
+
+<table>
+<tr>
+
+
+<td>
+
+<h2>CEREALES PARA COMER</h2>
+<img src="https://www.nestle-centroamerica.com/sites/g/files/pydnoa521/files/CPW-hero-banner_0.png" aling="center" width="500" height="333">
+
+</td>
+
+
+
+<td >
+    <?xml-stylesheet type="text/xsl" href="Ejemplo1.xsl"?>
+    <Cereales>
+    
+    <Cereal>
+    <nombre>Kelloggs Zucaritas </nombre>
+    <Cantidad>950g</Cantidad>
+    </Cereal>
+    
+    <Cereal>
+    <nombre>Quakers Stars malvaviscos</nombre>
+    <Cantidad>380g</Cantidad>
+    </Cereal>
+    
+    <Cereal>
+    <nombre>Nestlé Gold</nombre>
+    <Cantidad>640g</Cantidad>
+    </Cereal>
+    
+    
+    <Cereal>
+    <nombre>Great Value cookie bites</nombre>
+    <Cantidad>318g</Cantidad>
+    </Cereal>
+    
+    
+    <Cereal>
+    <nombre>Aurrera / Cereal de trigo inflado Endulzado sabor vainilla</nombre>
+    <Cantidad>400g</Cantidad>
+    </Cereal>
+    
+</td>
+
+
+
+
+
+
+
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
+</body>
+</html>
